@@ -2,7 +2,7 @@ body{
 	background-color: rgb(204, 204, 204);
 }
 
-h1 ,h2, h3{
+h1 ,h2{
 	text-align:center;
 	
 }
@@ -14,12 +14,10 @@ li{
 a{
 	text-decoration-line:none;
 }
-.player-one{
+.player_one, .player_two{
 	background-color: rgb(255, 255, 255); 
-	padding; border-radius;
+	padding:10px;
+	border-radius:5px;
 }
-.player-two{
-	background-color: rgb(255, 255, 255); 
-	padding; border-radius;
-}
+
 
